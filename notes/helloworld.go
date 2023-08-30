@@ -15,7 +15,7 @@
  *        helloworld.go  :  driverprogram
 *****************************************************************************/
 
-//Instructions & Notes for the program.
+// Instructions & Notes for the program.
 
 // First download the go language for windows on 'go.dev'
 // Every program must start with the package declaration.
