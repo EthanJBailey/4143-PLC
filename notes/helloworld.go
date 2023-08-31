@@ -24,6 +24,11 @@
 // To run the program you have to use shell command 'go run nameofile.go'
 // Therefore for this file 'go run helloworld.go' after I located and cd to where the file is located
 
+// Resources
+
+// https://www.digitalocean.com/community/tutorials/how-to-build-go-executables-for-multiple-platforms-on-ubuntu-20-04
+// https://zetcode.com/golang/build/
+
 package main // added the package main in your program:
 import "fmt" // import packages in your program and fmt package is used to implement formatted Input/Output with functions.
 
