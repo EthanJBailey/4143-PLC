@@ -1,4 +1,4 @@
-## P01 - Run A Go progra,
+## P01 - Run A Go program
 ### Ethan Bailey
 ### Description:
 
