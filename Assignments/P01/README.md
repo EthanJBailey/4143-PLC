@@ -11,7 +11,7 @@ It has error checking in the mascot_test.go file to make sure that the correct M
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | Main.go          | Main driver that calls the mascot function.        |
 |   2   | mascot.go        | File that contains the mascot package and function. |
-|   3   | mascot_test.go   | Test file for the correct Mascot name |
+|   3   | mascot_test.go   | Test file that checks for the correct output |
 |   4   | go.mod   | Base go file that defines the module's module path |
 |   5   | go.sum   |  Go file that contains information used by Go to record specific hashes and versions of dependencies|
 
