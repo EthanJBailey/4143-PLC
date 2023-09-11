@@ -21,6 +21,6 @@ It has error checking in the mascot_test.go file to make sure that the correct M
 - Make sure you download all files from directory
 - Ensure that you change directory to the folder of the file that you wish to execute.
   - Example: `cd P01` or `cd mascot`
-- My program expects you to type a command in the terminal, execute the main.go file or run the mascot_test.go test file.
+- My program expects you to type a command in the terminal, execute the main.go file or test output using mascot_test.go file.
 - Execution Command:
   - `go run main.go`
