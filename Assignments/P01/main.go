@@ -1,6 +1,6 @@
 /*****************************************************************************
 *
-*  Email:			 ejbailey1030@my.msutexas.edu
+*  Email:	     ejbailey1030@my.msutexas.edu
 *  Label:            P01
 *  Title:            Program 1 - Run a Go Program
 *  Course:           CMPS 4143
