@@ -1,5 +1,7 @@
+// Package Declaration:
 package imageManipulator
 
+// Import required packages
 import (
 	"github.com/fogleman/gg"
 )
