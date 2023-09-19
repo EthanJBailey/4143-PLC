@@ -21,6 +21,6 @@ edit the image, and save to file.
 - Make sure you download all files from directory
 - Ensure that you change directory to the folder of the file that you wish to execute.
   - Example: `cd imagemod` or `cd P02`...etc.
-- My program expects you to type a command in the terminal, execute the main.go file or test output using mascot_test.go file.
+- My program expects you to type a command in the terminal or execute the main.go file.
 - Execution Command:
   - `go run main.go`
