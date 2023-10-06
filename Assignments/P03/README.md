@@ -9,13 +9,13 @@ machine from anywhere. They all perform varous form of Image Manipulation or ASC
 
 |   #   | Folder             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | main.go                 | Main driver that calls the ColorTest module. |
-|   2   | go.mod                  | Base go file that defines all the module's module path |
-|   3   | go.sum                  | Go file that contains information used by Go to record specific hashes and versions of dependencies |
-|   4   | colors.jpg              | Image downloaded using the Getpic package|
-|   5   | colors_pixels_count.txt | File containing the printed pixels of image scanned|
-|   6   | colors_gray_scale.jpg   | File that contains the grayscale image |
-|   7   | colors_labeled.jpg      | File that contains the colored text image |
+|   1   | [main.go](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/main.go)          | Main driver that calls the ColorTest module. |
+|   2   | [go.mod](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/go.mod)            | Base go file that defines all the module's module path |
+|   3   | [go.sum](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/go.sum)            | Go file that contains information used by Go to record specific hashes and versions of dependencies |
+|   4   | [colors.jpg](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors.jpg)    | Image downloaded using the Getpic package|
+|   5   | [colors_pixels_count.txt](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_pixels_count.txt)  | File containing the printed pixels of image scanned|
+|   6   | [colors_gray_scale.jpg](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_gray_scale.jpg)   | File that contains the grayscale image |
+|   7   | [colors_labeled.jpg](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_labeled.jpg)      | File that contains the colored text image |
 
 
 ### Instructions
