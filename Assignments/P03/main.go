@@ -1,5 +1,29 @@
+/*****************************************************************************
+*
+*  Email:	     ejbailey1030@my.msutexas.edu
+*  Label:            P03
+*  Title:            Program 3 - Image Ascii Art
+*  Course:           CMPS 4143
+*  Semester:         Fall 2023
+*
+*  Description:
+*        This program hosts four different packages that allow a user to 
+*        "go get" them on their local machine from anywhere. 
+*        They all perform varous form of Image Manipulation or ASCII art.
+*
+*  Usage:
+*        - Run the 'go get' command to pull the libraries created
+*
+*  Files:
+*        main.go   			 :  driverprogram
+*        go.mod	   			 :  defines the module's module path        
+*
+*****************************************************************************/
+
+// Package Declaration
 package main
 
+// Import required packages
 import (
 	"fmt"
 
