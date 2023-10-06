@@ -1,4 +1,4 @@
-/*****************************************************************************
+/*************************************************************************************************
 *
 *  Email:	     ejbailey1030@my.msutexas.edu
 *  Label:            P03
@@ -16,9 +16,10 @@
 *
 *  Files:
 *        main.go   			 :  driverprogram
-*        go.mod	   			 :  defines the module's module path        
+*        go.mod	   			 :  defines the module's module path  
+*        go.sum	   			 :  record specific hashes and versions of dependencies 
 *
-*****************************************************************************/
+*************************************************************************************************/
 
 // Package Declaration
 package main
