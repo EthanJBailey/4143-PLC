@@ -1,4 +1,4 @@
-## P03 - Image Ascii Art
+## Program 3 - Image Ascii Art
 ### Ethan Bailey
 ### Description:
 
