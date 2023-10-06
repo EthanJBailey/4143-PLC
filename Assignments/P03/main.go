@@ -44,19 +44,19 @@ func main() {
 	// Call function to get picture from URL
 	Getpic.DownloadPicture()
 
-	// Prints black space
+	// Prints blank space
 	fmt.Print("\n")
 
 	// Call function to process Pixel Colors
 	Colors.PrintPixels()
 
-	// Prints black space
+	// Prints blank space
 	fmt.Print("\n")
 
 	// Call function to grayscale image
 	Grayscale.GrayScale()
 
-	// Prints black space
+	// Prints blank space
 	fmt.Print("\n")
 
 	// Call function to print colored text to image
