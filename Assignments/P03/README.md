@@ -16,6 +16,7 @@ machine from anywhere. They all perform varous form of Image Manipulation or ASC
 |   5   | [colors_pixels_count.txt](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_pixels_count.txt)  | File containing the printed pixels of image scanned|
 |   6   | [colors_gray_scale.jpg](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_gray_scale.jpg)   | File that contains the grayscale image |
 |   7   | [colors_labeled.jpg](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/colors_labeled.jpg)      | File that contains the colored text image |
+|   8   | [P03_snippet.png](https://github.com/EthanJBailey/4143-PLC/tree/main/Assignments/P03/P03_snippet.png)      | File that shows the output of the main.go to the console |
 
 
 ### Instructions
