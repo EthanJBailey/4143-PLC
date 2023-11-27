@@ -31,12 +31,13 @@ They do so sequentially and concurrently through the use of channels and gorouti
   than downloading them concurrently. 
 -  The average of the times below are 540.25952 ms for the sequential time and 417.24366 ms.
 -  Therefore, there is on average a 30% difference in the time it takes to download the images.
-  | #   | Sequential Time (ms) | Concurrent Time (ms) |
-  | ------------    | ----------- | ----------- |
-  | 1st run         | 506.7567 ms | 422.2275 ms |
-  | 2nd run         | 575.9808 ms | 547.1067 ms |
-  | 3rd run         | 673.0518 ms | 357.4730 ms |
-  | 4th run         | 502.8538 ms | 316.7495 ms |
-  | 5th run         | 442.6545 ms | 442.6616 ms |
+
+| #   | Sequential Time (ms) | Concurrent Time (ms) |
+| ------------    | ----------- | ----------- |
+| 1st run         | 506.7567 ms | 422.2275 ms |
+| 2nd run         | 575.9808 ms | 547.1067 ms |
+| 3rd run         | 673.0518 ms | 357.4730 ms |
+| 4th run         | 502.8538 ms | 316.7495 ms |
+| 5th run         | 442.6545 ms | 442.6616 ms |
 
   
